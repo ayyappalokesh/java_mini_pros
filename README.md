@@ -1,2 +1,2 @@
 # java_mini_pros
-java mini projects
+java mini projects for beginners
